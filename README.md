@@ -1,7 +1,7 @@
 
 ## Flask Full Study
 
-Here we'll abordding all recurses of flask with start one simple appication's - 'Hello World' to a full api prroject.
+Here we'll abordding all recurses of flask with start one simple appication's - 'Hello World' to a full application prroject.
 
 - [x] 'Hello Word'
 - [x] Render template
